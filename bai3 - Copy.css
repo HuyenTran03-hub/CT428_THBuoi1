@@ -1,0 +1,29 @@
+*{
+    position:relative;
+}
+.intro{
+    display: flex;
+}
+.intro__info-bg{
+    padding: 20px;
+    background-image: linear-gradient(0, rgb(240, 191, 219), rgb(232, 248, 247));
+ 
+}
+.intro__info-img{
+    padding: 5px;
+    margin-right: 70%;
+    width: 20%;
+    border-radius: 15px;
+    justify-content: center;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.intro__info-content{
+    justify-content: center;
+    text-align: center;
+}
+.intro__content {
+    width: 70%;
+    padding: 20px;
+}
